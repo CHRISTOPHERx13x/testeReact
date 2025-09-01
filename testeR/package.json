@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/CHRISTOPHERx13x/testeR/tree/main",
+  "homepage": "https://github.com/CHRISTOPHERx13x/testeReact/tree/main",
   "eslintConfig": {
     "extends": [
       "react-app",
